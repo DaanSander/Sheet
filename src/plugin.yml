@@ -1,0 +1,8 @@
+name: <Plugin naam>
+main: <package>
+version: <versie (maakt niet uit)>
+commands:
+#Hier registreren wij alle commands
+   <Command naam>:
+      description: gives stuff.
+      usage: /<command>
