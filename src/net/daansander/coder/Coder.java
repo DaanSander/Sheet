@@ -22,6 +22,29 @@ public class Coder extends JavaPlugin implements Listener {
      * CoderDojo Cheat Sheat door Daan Meijer
      * @author Daan Meijer
      */
+  /**
+  * int = een normaal nummer en kan maximaal  2^31-1 hebben.
+  * double = een normaal nummer met decimalen zoals: 10.34531
+  * boolean = is een schakelaar het kan waar of niet waar zijn
+  * long = is groot het kan een heel groot getal zijn zoals: 9349641242334513
+  * float = is een soort van long maar iets minder
+  * byte = is erg klein
+  * short = is een soort van byte maar dan groter
+  * 
+  * public = open voor elke class
+  * protected = alleen voor classes die het 'extenden'
+  * private = is alleen voor de class zelf
+  * static = is open voor iedereen
+  * final = kan je niet veranderen
+  * synchronized = heeft voorang op alle codes
+  * 
+  * 
+  * new = maak een nieuwe instancie aan van een class
+  * throw = gooi een error
+  * abstract = methods die in de class moeten zitten
+  * interface = volledig abstracte methods
+  * 
+  */
 
     public void onEnable() {
         //Hiermee kun je events registreren
