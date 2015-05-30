@@ -27,7 +27,7 @@ public class Coder extends JavaPlugin implements Listener {
   * double = een normaal nummer met decimalen zoals: 10.34531
   * boolean = is een schakelaar het kan waar of niet waar zijn
   * long = is groot het kan een heel groot getal zijn zoals: 9349641242334513
-  * float = is een soort van long maar iets minder
+  * float = is een soort van double
   * byte = is erg klein
   * short = is een soort van byte maar dan groter
   * 
